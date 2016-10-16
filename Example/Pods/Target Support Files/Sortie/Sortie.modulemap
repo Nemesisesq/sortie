@@ -1,0 +1,6 @@
+framework module Sortie {
+  umbrella header "Sortie-umbrella.h"
+
+  export *
+  module * { export * }
+}

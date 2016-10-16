@@ -1,0 +1,22 @@
+PODS:
+  - Nimble (3.2.0)
+  - Quick (0.10.0)
+  - Sortie (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 3.0)
+  - Quick (~> 0.8)
+  - Sortie (from `../`)
+
+EXTERNAL SOURCES:
+  Sortie:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 703854335d181df169bbca9c97117b5cf8c47c1d
+  Quick: 5d290df1c69d5ee2f0729956dcf0fd9a30447eaa
+  Sortie: 5ee10e6de497e74da8b4c0483046a0d26990bc8b
+
+PODFILE CHECKSUM: 83872ec1035d7f24adfa9ae1d8d1405f115f232b
+
+COCOAPODS: 1.1.0.rc.2
